@@ -44,7 +44,7 @@ This project implements a real-time Rock, Paper, Scissors game using a webcam an
 
 ## Code Overview
 
-The game is implemented in `rock_paper_scissors.py`. Here's a brief overview of the main components:
+The game is implemented in `RPS Game.ipynb`. Here's a brief overview of the main components:
 
 - **Initialization**: 
     ```python
