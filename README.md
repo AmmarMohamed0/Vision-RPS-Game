@@ -35,11 +35,12 @@ This project implements a real-time Rock, Paper, Scissors game using a webcam an
 ## Usage
 
 
-   **Play the game**
+   1. **Play the game**
     - Ensure your webcam is properly connected.
     - Place your hand gestures within the webcam's view.
     - The game will detect gestures for two players and update the scores based on the rules of Rock, Paper, Scissors.
     - The scores and the current game state will be displayed on the screen.
+
 
 ## Code Overview
 
